@@ -17,10 +17,11 @@ PoizonShopTelegram – это телеграм-бот, предназначен�
 
 ## Содержание 
 
-
+[Персонажи][1]
 
 
 ## Стейкхолдеры
 
 
 
+[1]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/characters.md
