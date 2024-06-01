@@ -21,7 +21,7 @@ PoizonShopTelegram – это телеграм-бот, предназначен�
 
 
 ## Стейкхолдеры
-
+Кирилл
 
 
 [1]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/characters.md
