@@ -17,9 +17,15 @@ PoizonShopTelegram – это телеграм-бот, предназначен�
 
 ## Содержание 
 
-- [🌴Персонажи][1]
-- [Функциональные требования][2]
-- [Нефункциональные требования][3]
+- [🧑‍💻 Персонажи][1]
+- [📈 Функциональные требования][2]
+- [📉 Нефункциональные требования][3]
+
+## Сбор требований 
+
+- [🧠 Мозговой штурм][4]
+- [📔 Анкетирование][5]
+- [🙋 Интервью][6]
 
 ## Стейкхолдеры
 - Разработчик
@@ -33,3 +39,6 @@ PoizonShopTelegram – это телеграм-бот, предназначен�
 [1]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/characters.md
 [2]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/functional_requirements.md
 [3]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/non_functional_requirements.md
+[4]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/brainstorming.md
+[5]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/survey.md
+[6]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/interview.md
