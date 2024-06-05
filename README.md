@@ -5,6 +5,8 @@
 Команда проекта:
 - Ерошкин Кирилл(ЗБ-ПИ20-1)
 - Кичеева Анна(ЗБ-ПИ20-1)
+- Рубцова Ирина(ЗБ-ПИ20-2)
+- Шахмурзиева Раяна(ЗБ-ПИ20-2)
 
 
 ## Разрабатываемый проект
@@ -18,6 +20,7 @@ PoizonShopTelegram – это телеграм-бот, предназначен�
 ## Содержание 
 
 - [🧑‍💻 Персонажи][1]
+- [🙋 Стейкхолдеры][7]
 - [📈 Функциональные требования][2]
 - [📉 Нефункциональные требования][3]
 
@@ -27,18 +30,11 @@ PoizonShopTelegram – это телеграм-бот, предназначен�
 - [📔 Анкетирование][5]
 - [🙋 Интервью][6]
 
-## Стейкхолдеры
-- Разработчик
-- Тестировщик
-- Владелец продукта
-- Администартор канала
-- Менеджер по продажам
-- Пользователь (Клиент)
-
 
 [1]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/characters.md
-[2]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/functional_requirements.md
-[3]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/non_functional_requirements.md
-[4]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/brainstorming.md
-[5]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/survey.md
-[6]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/interview.md
+[2]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/Requirements/functional_requirements.md
+[3]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/Requirements/non_functional_requirements.md
+[4]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/Requirements/brainstorming.md
+[5]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/Requirements/survey.md
+[6]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/Requirements/interview.md
+[7]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/Stakeholders/stakeholders_table.md

@@ -34,7 +34,7 @@
 
 [📝 Результаты][4]
 
-[1]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/stakeholder_vk.md
-[2]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/stakeholder_shop.md
-[3]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/stakeholder_investor.md
-[4]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/stakeholder_comparison.md
+[1]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/Stakeholders/stakeholder_vk.md
+[2]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/Stakeholders/stakeholder_shop.md
+[3]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/Stakeholders/stakeholder_investor.md
+[4]: https://github.com/Noontr3x/PoizonShopTelegram/blob/main/Stakeholders/stakeholder_comparison.md
